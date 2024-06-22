@@ -28,7 +28,7 @@ Este é o meu primeiro projeto feito em React. O objetivo do projeto é construi
 
 ### Acesse o Projeto
 
-Você pode acessar o projeto [aqui](http://seu-link-para-o-projeto.com).
+Você pode acessar o projeto [aqui](https://fast-react-pizza-wy11.onrender.com).
 
 ## English 🇺🇸
 
@@ -58,4 +58,4 @@ This is my first project made with React. The aim of this project is to build a 
 
 ### Access the Project
 
-You can access the project [here](http://your-project-link.com).
+You can access the project [here](https://fast-react-pizza-wy11.onrender.com).
